@@ -1,4 +1,4 @@
-# Analyze_ab_Test_Results
+# Analyze A/B Test Results
 
 ## Dataset
 
@@ -8,7 +8,7 @@
 - Keep the old webpage.
 - or Perhaps run the experiment longer to make their decision.
  
-##### This project contains 3 files:
+##### This project contains 4 files:
 
 - ab_data.csv / countries.csv:The dataset files of ab test.
 - Analyze_ab_test_results_notebook.ipynb: The analyzing of the dataset has been done in this jupyter notebook file.
